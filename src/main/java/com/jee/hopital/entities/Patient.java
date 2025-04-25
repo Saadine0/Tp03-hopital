@@ -17,5 +17,5 @@ public class Patient {
     private String nom;
     private Date dateDeNaissance;
     private boolean malade;
-    private Float score;  // Float instead of float to match constructor
+    private int score;  // Float instead of float to match constructor
 }
